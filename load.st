@@ -22,8 +22,8 @@ Gofer new
 	load.
 
 "Start AJP"
-(AJPPharoAdaptor port: 8003)
-	codec: GRPharoUtf8Codec new;
+((Smalltalk globals at: #AJPPharoAdaptor) port: 8003)
+	codec: (Smalltalk globals at: #GRPharoUtf8Codec) new;
 	start.
 
 "Frank"
