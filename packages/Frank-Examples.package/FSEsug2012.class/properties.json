@@ -1,0 +1,14 @@
+{
+	"category" : "Frank-Examples",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		 ],
+	"name" : "FSEsug2012",
+	"pools" : [
+		 ],
+	"super" : "FSRequestHandler",
+	"type" : "normal" }
