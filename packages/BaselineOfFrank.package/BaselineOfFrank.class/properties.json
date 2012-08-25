@@ -1,0 +1,14 @@
+{
+	"category" : "BaselineOfFrank",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		 ],
+	"name" : "BaselineOfFrank",
+	"pools" : [
+		 ],
+	"super" : "BaselineOf",
+	"type" : "normal" }
