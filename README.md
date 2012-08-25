@@ -2,7 +2,6 @@
 
 ## Load Using Gopher
 
-### Load a Server
 ```Smalltalk
 "Initialize Image Building"
 MCCacheRepository instVarNamed: 'default' put: nil.
